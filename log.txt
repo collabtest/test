@@ -1,4 +1,7 @@
-This log file is a test. TEST#2
+<<<<<<< HEAD
+=======
+Adding something on top. Error?
+>>>>>>> upstream/master
 This is now a log file test thing.
 
 And something down here.
