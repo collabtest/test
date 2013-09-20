@@ -1,1 +1,2 @@
+Adding something on top. Error?
 This is now a log file test thing.
